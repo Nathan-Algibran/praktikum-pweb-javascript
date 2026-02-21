@@ -49,8 +49,10 @@ Sebagai langkah akhir, interface ditutup menggunakan metode close() agar proses 
 
 Program ini menunjukkan penerapan dasar JavaScript dalam lingkungan Node.js, termasuk penggunaan modul bawaan, pengolahan input/output terminal, struktur percabangan, validasi data, serta pemanggilan fungsi. Alur kerja dirancang secara sistematis agar mampu menerima data pengguna, memprosesnya sesuai aturan astrologi, dan menghasilkan output yang tepat.
 
-Output Program
+# Output Program
+
 ![Output 1 Program](output1.png)
 ![Output 2 Program](output2.png)
 ![Output 3 Program](output3.png)
 ![Output 3 Program](output4.png)
+
